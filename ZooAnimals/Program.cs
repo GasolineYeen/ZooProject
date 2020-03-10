@@ -17,6 +17,8 @@ namespace ZooAnimals
             Animal animal = new Animal(1, "female", "grassland", "cake", 7, 700, "none", 20);
             Console.WriteLine(animal.ToString());
 
+            Console.WriteLine("Hello world james in da house");
+
         }
 
 
